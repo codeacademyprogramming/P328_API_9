@@ -1,0 +1,49 @@
+﻿@model ProductUpdateRequest
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <h1>Create</h1>
+        </div>
+        <div class="col-md-8">
+            <form asp-action="edit" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Name">Name</label>
+                    <input class="form-control" asp-for="Name">
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="BrandId">Brand</label>
+                    <select class="form-control" asp-for="BrandId" asp-items="new SelectList(ViewBag.Brands,nameof(BrandGetAllItemResponse.Id),nameof(BrandGetAllItemResponse.Name))">
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SalePrice">SalePrice</label>
+                    <input class="form-control" asp-for="SalePrice">
+                    <span class="text-danger" asp-validation-for="SalePrice"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CostPrice">CostPrice</label>
+                    <input class="form-control" asp-for="CostPrice">
+                    <span class="text-danger" asp-validation-for="CostPrice"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DiscountPercent">DiscountPercent</label>
+                    <input class="form-control" asp-for="DiscountPercent">
+                    <span class="text-danger" asp-validation-for="DiscountPercent"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Image">Image</label>
+                    <input class="form-control" asp-for="Image">
+                    <span class="text-danger" asp-validation-for="Image"></span>
+                    <img src="@ViewBag.ImgUrl" width="250"/>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+

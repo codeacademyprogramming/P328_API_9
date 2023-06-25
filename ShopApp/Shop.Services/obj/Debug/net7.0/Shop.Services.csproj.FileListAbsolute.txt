@@ -1,0 +1,85 @@
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.deps.json
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Core.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Data.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Data.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Core.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.AssemblyReference.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.AssemblyInfoInputs.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.AssemblyInfo.cs
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.CoreCompileInputs.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.CopyComplete
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\refint\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\5. 20-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\ref\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.deps.json
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Core.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Data.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Data.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Core.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.AssemblyReference.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.AssemblyInfoInputs.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.AssemblyInfo.cs
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.CoreCompileInputs.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.CopyComplete
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\refint\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\6. 21-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\ref\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.deps.json
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Core.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Data.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Data.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Core.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.AssemblyReference.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.AssemblyInfoInputs.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.AssemblyInfo.cs
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.CoreCompileInputs.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.CopyComplete
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\refint\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\7. 22-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\ref\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.deps.json
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Core.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Data.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Data.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Core.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.AssemblyReference.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.AssemblyInfoInputs.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.AssemblyInfo.cs
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.CoreCompileInputs.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.CopyComplete
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\refint\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\8. 24-06-2023\ShopApp\Shop.Services\obj\Debug\net7.0\ref\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.deps.json
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Services.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Core.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Data.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Data.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\bin\Debug\net7.0\Shop.Core.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.AssemblyReference.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.AssemblyInfoInputs.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.AssemblyInfo.cs
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.CoreCompileInputs.cache
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.csproj.CopyComplete
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\obj\Debug\net7.0\refint\Shop.Services.dll
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\obj\Debug\net7.0\Shop.Services.pdb
+C:\Users\elchin.CODE\Desktop\CodeLesson\API\9\ShopApp\Shop.Services\obj\Debug\net7.0\ref\Shop.Services.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "jboWVj35C/frHFywhGCStfSD4bf1FEZXPZR+PQEcf0s=",
+  "Source": "Shop.Api",
+  "BasePath": "_content/Shop.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Shop.Api\\wwwroot",
+      "Source": "Shop.Api",
+      "ContentRoot": "C:\\Users\\elchin.CODE\\Desktop\\CodeLesson\\API\\9\\ShopApp\\Shop.Api\\wwwroot\\",
+      "BasePath": "_content/Shop.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\elchin.CODE\\Desktop\\CodeLesson\\API\\9\\ShopApp\\Shop.Api\\wwwroot\\uploads\\products\\14085eee-8221-42f4-ab7c-553c81fb9467client-1.png",
+      "SourceId": "Shop.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elchin.CODE\\Desktop\\CodeLesson\\API\\9\\ShopApp\\Shop.Api\\wwwroot\\",
+      "BasePath": "_content/Shop.Api",
+      "RelativePath": "uploads/products/14085eee-8221-42f4-ab7c-553c81fb9467client-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\14085eee-8221-42f4-ab7c-553c81fb9467client-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\elchin.CODE\\Desktop\\CodeLesson\\API\\9\\ShopApp\\Shop.Api\\wwwroot\\uploads\\products\\27d34282-14b5-4f37-b694-fa5a1a3cab68dark.png",
+      "SourceId": "Shop.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elchin.CODE\\Desktop\\CodeLesson\\API\\9\\ShopApp\\Shop.Api\\wwwroot\\",
+      "BasePath": "_content/Shop.Api",
+      "RelativePath": "uploads/products/27d34282-14b5-4f37-b694-fa5a1a3cab68dark.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\27d34282-14b5-4f37-b694-fa5a1a3cab68dark.png"
+    },
+    {
+      "Identity": "C:\\Users\\elchin.CODE\\Desktop\\CodeLesson\\API\\9\\ShopApp\\Shop.Api\\wwwroot\\uploads\\products\\a13c157e-385c-4c68-b7ba-8edbd81fba74dark.png",
+      "SourceId": "Shop.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elchin.CODE\\Desktop\\CodeLesson\\API\\9\\ShopApp\\Shop.Api\\wwwroot\\",
+      "BasePath": "_content/Shop.Api",
+      "RelativePath": "uploads/products/a13c157e-385c-4c68-b7ba-8edbd81fba74dark.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\a13c157e-385c-4c68-b7ba-8edbd81fba74dark.png"
+    },
+    {
+      "Identity": "C:\\Users\\elchin.CODE\\Desktop\\CodeLesson\\API\\9\\ShopApp\\Shop.Api\\wwwroot\\uploads\\products\\d18cdb6e-5010-4221-bece-970492eff9dadark.png",
+      "SourceId": "Shop.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elchin.CODE\\Desktop\\CodeLesson\\API\\9\\ShopApp\\Shop.Api\\wwwroot\\",
+      "BasePath": "_content/Shop.Api",
+      "RelativePath": "uploads/products/d18cdb6e-5010-4221-bece-970492eff9dadark.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\d18cdb6e-5010-4221-bece-970492eff9dadark.png"
+    }
+  ]
+}
